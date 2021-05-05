@@ -1,2 +1,2 @@
-RESTful-api generating HIFI-products in JSON.
-\Built in PHP.
+RESTful-api generating HIFI-products in JSON.  
+Built in PHP.
